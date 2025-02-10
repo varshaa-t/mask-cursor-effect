@@ -32,7 +32,7 @@ export default function Home() {
         </p>
       </motion.div>
       <div className="flex justify-center items-center w-full h-full text-6xl leading-[66px] text-[#afa18f] cursor-default">
-        <p className="w-[1000px] p-10">I'm a <span className="text-orange-500">frontend developer</span> who loves building smooth, responsive, and visually stunning web experiences.</p>
+        <p className="w-[1000px] p-10">I&apos;m a <span className="text-orange-500">frontend developer</span> who loves building smooth, responsive, and visually stunning web experiences.</p>
       </div>
     </main>
   );
